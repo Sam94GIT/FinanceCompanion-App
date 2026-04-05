@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/rounded_add_home_24"
+        android:title="Home"/>
+
+    <item
+        android:id="@+id/transactionsFragment"
+        android:icon="@drawable/outline_attach_money_24"
+        android:title="Transactions"/>
+
+    <item
+        android:id="@+id/insightsFragment"
+        android:icon="@drawable/outline_bar_chart_24"
+        android:title="Insights"/>
+
+    <item
+        android:id="@+id/goalsFragment"
+        android:icon="@drawable/outline_bookmark_check_24"
+        android:title="Goals"/>
+
+</menu>
